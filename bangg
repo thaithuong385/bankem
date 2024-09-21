@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <style>
+            *{box-sizing:border-box;}
+            .intem{
+                width: 100%;
+                height:150px;
+                text-align:center;
+                border: 3px red solid;
+            }
+            .item2{
+                width:31%;
+                height:300px;
+                border:solid 3px red;
+                float:left;
+                margin:10px;
+                padding:0px;
+            }
+            .item1{
+                width:100px;
+                border:solid 3px blue;
+                height:100px;
+                margin:10px;
+                padding-left:10px;
+            }
+            ul.li{
+                margin: 0px;
+                padding: 10px;
+            }
+        </style>
+    </head>
+    <body style="margin: 0; font-family: Arial, sans-serif; background-color: white;">
+        <div style="border: black 10px solid; width: 90%; margin: 0 auto; background-color: white;">
+            <div style="border: solid 3px red; height: 150px; text-align: center; line-height: 50px; background-color: lightcoral;">
+                HEADER
+            </div>
+            <div style="border: solid 1px blue; margin: 7px 0; padding: 10px; background-color: lightblue;">
+                <ul style="list-style-type: none; padding: 0; margin: 0;">
+                    <li style="display: inline-block; border: solid 2px red; background-color: aqua; padding: 7px 15px; margin-right: 5px;">Trang chủ</li>
+                    <li style="display: inline-block; border: solid 2px red; background-color: aqua; padding: 7px 15px; margin-right: 5px;">Thông tin tuyển sinh</li>
+                    <li style="display: inline-block; border: solid 2px red; background-color: aqua; padding: 7px 15px; margin-right: 5px;">Thông tin đào tạo</li>
+                    <li style="display: inline-block; border: solid 2px red; background-color: aqua; padding: 7px 15px;">Liên hệ</li>
+                </ul>
+            </div>
+
+            <div style="border: solid 3px blue; margin: 7px 0px;">
+                <div style="border: solid 3px greenyellow; width: 20%; float:left;">
+                    <div style=" border:solid 3px blue; padding: 10px;">Trang chủ</div>
+                    <div style="border:solid 3px blue; padding: 10px;">Thông tin tuyển sinh</div>
+                    <div style="border:solid 3px blue; padding: 10px;">Thông tin đào tạo</div>
+            </div>
+            <div>
+                <div style="border: solid 3px greenyellow; width: 60%; float:left;">C</div>
+                <div style="border: solid 3px greenyellow; width: 20%; float:right;">R</div>
+            </div>
+
+            <div style="border: solid 3px greenyellow; text-align: center; clear:both; height:150px">
+                FOOTER
+            </div>
+        </div>
+    </body>
+</html>
