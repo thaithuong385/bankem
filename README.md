@@ -13,7 +13,7 @@
                 <td width="40%" valign="top">
                     <table width="100%" border="1">
                         <tr> <td align="right">Trangchu</td> </tr>
-                        <tr> <td align="left">Thong tin san pham</td> </tr>
+                        <tr> <td align="left">Thong tinyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy san pham</td> </tr>
                         <tr> <td align="center">Danh sach hang hoa</td> </tr>
                         <tr> <td align="left">Lien He</td> </tr>
                     </table>
